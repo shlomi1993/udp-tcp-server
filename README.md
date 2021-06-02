@@ -13,3 +13,7 @@ You can find in this repo a dictionary named "simple_client_server" that contain
 ## TCP Server - HTTP training
 
 In this part I've implemented a TCP server that get a request and load resources from "resources" dictionary.
+
+This server is a part of a bigger assignments in which we had to analyze communications between clients and server with WireShark.
+
+![Uploading image.png…]()
