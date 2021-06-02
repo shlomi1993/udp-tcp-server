@@ -4,7 +4,7 @@ This repo documents implementation of a simple UDP server and a little more comp
 
 ## UDP Server - Simple DNS
 
-In this part I have implemented a (very) basic DNS server.
+In this part I've implemented a (very) basic DNS server.
 
 You can find in this repo a dictionary named "simple_client_server" that contains two files:
 1. simp_client.py - a very basic UDP client that gets a URL from the user and send it to a server via UDP.
@@ -12,6 +12,4 @@ You can find in this repo a dictionary named "simple_client_server" that contain
 
 ## TCP Server - HTTP training
 
-In this part I've implemented a TCP server that get a request
-
--- to be contiued --
+In this part I've implemented a TCP server that get a request and load resources from "resources" dictionary.
