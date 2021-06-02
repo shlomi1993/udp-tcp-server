@@ -16,4 +16,4 @@ In this part I've implemented a TCP server that get a request and load resources
 
 This server is a part of a bigger assignments in which we had to analyze communications between clients and server with WireShark.
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/72878018/120474819-535a8100-c3b1-11eb-816f-2eed0e9e0ce4.png)
